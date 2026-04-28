@@ -268,7 +268,7 @@ We attempted five improvements over the original pipeline. All degraded performa
 
 ```bash
 # Clone the repository
-git clone https://github.com/syusjko/goggle-gemma-2-9b-Emotion-extracting.git
+git clone https://github.com/syusjko/google-gemma-2-9b-Emotion-extracting.git
 cd goggle-gemma-2-9b-Emotion-extracting
 
 # Install dependencies
@@ -556,7 +556,7 @@ model.layers[steer_layer].register_forward_hook(hook_fn)
 
 ```bash
 # 리포지토리 클론
-git clone https://github.com/syusjko/goggle-gemma-2-9b-Emotion-extracting.git
+git clone https://github.com/syusjko/google-gemma-2-9b-Emotion-extracting.git
 cd goggle-gemma-2-9b-Emotion-extracting
 
 # 의존성 설치
